@@ -15,8 +15,8 @@
 
 <div align="left">
 
-<img src="./Gallery/render2.png" width="100%">
-<img src="./Gallery/render3.png" width="100%">
+<img src="./Gallery/render1.png" width="100%">
+
 
 </div>
 
@@ -38,7 +38,7 @@ Designed to be simple, portable, and open source, Rova is easy to build, customi
 
 <img src="./Gallery/render2.png">
 
-<img src="./Gallery/render3.png">
+<img src="./Gallery/render3.png">   
 
 </div>
 
