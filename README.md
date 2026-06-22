@@ -207,7 +207,7 @@ Rova/
 Contributions, suggestions, and improvments are always welcome.
 
 ```bash
-git clone https://github.com/<your-username>/Rova.git
+git clone https://github.com/Sudo-Aju/Rova.git
 cd Rova
 ```
 
