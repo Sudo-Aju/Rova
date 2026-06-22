@@ -13,12 +13,12 @@
 
 ### _No More Getting Up to Control Your Music._
 
-<div align="left">
-
-<img src="./Gallery/render1.png" width="100%">
 
 
-</div>
+<img src="./Gallery/render1.png" width="300">
+
+
+
 
 </div>
 
