@@ -1,0 +1,7 @@
+No.,Quantity,Comment,Designator,Footprint,Value,Manufacturer Part,Manufacturer,Supplier Part,Supplier,Link,Price (USD)
+1,1.0,B2B-PH-K-S-GW,CN1,CONN-TH_B2B-PH-K-S,,B2B-PH-K-S-GW,JST,C5251182,LCSC,https://www.lcsc.com/product-detail/C5251182.html,$1.82
+2,1.0,HS13L03W2C01,OLED1,OLED-TH_L35.4-W33.5_HS13L03W2C01,,HS13L03W2C01,"HS(汉昇)",C7465997,LCSC,https://www.lcsc.com/product-detail/C7465997.html,$4.98
+3,2.0,KH-6X6X5H-STM,"SW1,SW3",SW-SMD_4P-L6.0-W6.0-P4.50-LS9.0_H5.0,,KH-6X6X5H-STM,"kinghelm(金航标)",C2837531,LCSC,https://www.lcsc.com/product-detail/C2837531.html,$0.94
+4,1.0,EC11E18244AU,SW2,SW-TH_EC11XXXXXXXX,,EC11E18244AU,"ALPSALPINE(阿尔卑斯阿尔派)",,LCSC,https://www.lcsc.com/product-detail/C202365.html,$2.23
+5,1.0,XIAO-ESP32-C3,U2,Seeed_Studio_XIAO_Series:XIAO-ESP32-C3-SMD,XIAO-ESP32-C3-SMD,.,Seeed Studio,,Robu,https://robu.in/product/seeed-studio-xiao-esp32c3-tiny-mcu-board-with-wi-fi-and-ble-battery-charge-supported-power-efficiency-and-rich-interface/,$6.86
+6,1.0,VS1838B,U3,OPTO-TH_VS1838B,,VS1838B,,,Robu,https://robu.in/product/ir-receiving-head-vs1838b-remote-control-receiver/,$0.48
