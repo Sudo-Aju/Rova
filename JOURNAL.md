@@ -12,7 +12,8 @@
 ### Content
 
 Researched a lot fo what all dill i need and i also decided to use esp32 c3 super mini as it is really small, tho i realised that it doesnt have hte battery protection so i am using TP4056 ic and adding all the other stuff to make the module. i have placed all the components now i need to connect them, i also watched some tutorials to know the modules better and also how oled displays work, more about api and i2c
-![Screenshot 2026-06-16 at 17.11.23.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzQzNjgsInB1ciI6ImJsb2JfaWQifX0=--53bf2f7dcb2c95a6937a97039731e79b0f945678/Screenshot 2026-06-16 at 17.11.23.png)
+<img width="1651" height="740" alt="image" src="https://github.com/user-attachments/assets/bfc93af0-3faf-4ed3-b90e-78f2c9ebfde5" />
+
 
 
 ### Recording Links
@@ -27,7 +28,8 @@ Researched a lot fo what all dill i need and i also decided to use esp32 c3 supe
 ### Content
 
 Placed all the components in PCB editor and also traced them, the only thing remaining now is to make the enclousire
-![RovaPCB.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY4MzQsInB1ciI6ImJsb2JfaWQifX0=--6864906be433024360b2bf9630f24ee632bbad3f/RovaPCB.png)
+<img width="2160" height="3070" alt="image" src="https://github.com/user-attachments/assets/100479cb-9bb7-474b-bcb3-2970cfdf8349" />
+
 
 
 ### Recording Links
@@ -42,7 +44,8 @@ Placed all the components in PCB editor and also traced them, the only thing rem
 ### Content
 
 Started with the enclosure, made the lower and upper part, added the holes for components and now planning to add dovetail sliding for upper part to close the box and open it, but most probaly going to add screws.
-![Screenshot 2026-06-20 at 11.03.43.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY5MDYsInB1ciI6ImJsb2JfaWQifX0=--b4c62637f27e3587739ce542ea680faa3416e802/Screenshot 2026-06-20 at 11.03.43.png)
+<img width="1329" height="1319" alt="image" src="https://github.com/user-attachments/assets/10452890-df9d-4611-bac7-86f898825a09" />
+
 
 
 ### Recording Links
@@ -57,7 +60,9 @@ Started with the enclosure, made the lower and upper part, added the holes for c
 ### Content
 
 Done with the enclosure, maybe i will add some designs and text on the body, next i will make the zine and repostiery
-![Screenshot 2026-06-20 at 11.55.27.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY5NTIsInB1ciI6ImJsb2JfaWQifX0=--c9165b4a1000bcfc6917047a692d8d7bbcc0ed56/Screenshot 2026-06-20 at 11.55.27.png)
+<img width="928" height="1027" alt="image" src="https://github.com/user-attachments/assets/ae948872-af1e-4fc3-805e-3036e730fa8e" />
+
+
 
 
 ### Recording Links
@@ -73,8 +78,8 @@ Done with the enclosure, maybe i will add some designs and text on the body, nex
 
 Found some reference of vintage gaming consoles and i really liked hte designs, so i started by implemetning the circle snad colros on the design ad renderred them
 
+<img width="3024" height="1429" alt="image" src="https://github.com/user-attachments/assets/f85be15b-cbe0-4860-8ebf-0dbc3c727636" />
 
-![render3.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzg0NzEsInB1ciI6ImJsb2JfaWQifX0=--b924fae06ee6df9dabed9308c516bfd14fb20441/render3.png)
 
 
 ### Recording Links
@@ -90,7 +95,8 @@ Found some reference of vintage gaming consoles and i really liked hte designs, 
 ### Content
 
 I am finally done with this project, i basically copy pasted the readme and formatted it from my past projects, i also made the BOM, finsihed with zines, renders and everything else, hence I AM DONE !!!
-![zine.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzg0ODQsInB1ciI6ImJsb2JfaWQifX0=--6548bd95e1b83f79abf72f8af6f15be5653b6662/zine.png)
+<img width="1688" height="2588" alt="image" src="https://github.com/user-attachments/assets/6233608e-ecd7-41e0-bd99-0f379288f51c" />
+
 
 
 ### Recording Links
@@ -107,7 +113,8 @@ I am finally done with this project, i basically copy pasted the readme and form
 ### Content
 
 Started with the firmware went through few videos and learnt a lot about how IR recivers work and how can the remote be used, Also learnt what libraries to use and the logic behind the code
-![Screenshot 2026-07-15 at 15.18.42.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDEzMTQsInB1ciI6ImJsb2JfaWQifX0=--9052bb1cb31db5cbeac0c23c112a37e8fd718c11/Screenshot 2026-07-15 at 15.18.42.png)
+<img width="1226" height="1692" alt="image" src="https://github.com/user-attachments/assets/3afdf913-cdb9-4932-930b-36e5a8f9f1a5" />
+
 
 
 ### Recording Links
@@ -122,7 +129,8 @@ Started with the firmware went through few videos and learnt a lot about how IR 
 ### Content
 
 Added more firmware, going to work more on the frimware and goig to add much more features, including button configureatinos and ir controls
-![Screenshot 2026-07-20 at 15.40.45.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDE3MjksInB1ciI6ImJsb2JfaWQifX0=--70df79eb5f827226123f64430257b197367abb0e/Screenshot 2026-07-20 at 15.40.45.png)
+<img width="1849" height="1849" alt="image" src="https://github.com/user-attachments/assets/d881f990-8f10-4828-9e3a-5d43938b12b5" />
+
 
 
 ### Recording Links
